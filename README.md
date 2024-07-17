@@ -1,4 +1,4 @@
-# pychess
+# pychess-vivifica 0.0.1
 A python package for chess
 
 ## Installation
