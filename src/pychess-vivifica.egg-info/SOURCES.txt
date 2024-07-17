@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/pychess-vivifica/__init__.py
+src/pychess-vivifica/bitboard.py
+src/pychess-vivifica/board.py
+src/pychess-vivifica/castling.py
+src/pychess-vivifica/direction.py
+src/pychess-vivifica/fen.py
+src/pychess-vivifica/move.py
+src/pychess-vivifica/piece.py
+src/pychess-vivifica/square.py
+src/pychess-vivifica.egg-info/PKG-INFO
+src/pychess-vivifica.egg-info/SOURCES.txt
+src/pychess-vivifica.egg-info/dependency_links.txt
+src/pychess-vivifica.egg-info/top_level.txt

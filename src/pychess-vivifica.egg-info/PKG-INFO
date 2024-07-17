@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pychess-vivifica
+Version: 0.0.1
+Summary: Python package for chess
+Author-email: Jingyang Wang <wangjy2010@126.com>
+Project-URL: Homepage, https://github.com/iwoeix/pychess
+Project-URL: Issues, https://github.com/iwoeix/pychess/issues
+Classifier: Programming Language :: Python :: 3.12
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pychess
+A python package for chess
